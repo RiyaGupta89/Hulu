@@ -1,11 +1,9 @@
 <p align="center">
-  <a href="#">
-    <img src="./public/logo.png" alt="Logo" width="250" height="100">
-  </a>
+
 
   <h2 align="center">Hulu Webpage Clone</h2>
 
-  <p align="center">
+  <p align='center'>
     Built with Next.js & Tailwind
   </p>  
 </p>
@@ -30,6 +28,10 @@
     yarn dev
     ```
 The above command will start the application on [http://localhost:3000/](http://localhost:3000).
+
+## Deploy
+
+This app is having some issue with pre-rendering page therefore that is becoming a hindrance for deploying this webapp. If anybody's interested in helping me and solving this error by contributing to this repository please do. Thanks in advance :)
 
 ## License
 
