@@ -21,7 +21,7 @@ function Header() {
             <HeaderItem title="SEARCH" Icon={SearchIcon}/>
             <HeaderItem title="ACCOUNT" Icon={UserIcon}/>
         </div>
-            <Image src="/logo.png" className="object-contain" width={150} height={40}/>
+            <Image src="/logo.png" className="object-contain" width={150} height={40} alt="logo"/>
         </header>
     )
 }

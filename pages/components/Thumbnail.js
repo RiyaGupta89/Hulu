@@ -10,6 +10,7 @@ const Thumbnail = forwardRef(({result}, ref) => {
     return (
         <div ref={ref} className="group cursor-pointer p-2 transition duration-100 ease-in transform sm:hover:scale-105 hover:z-50">
             <Image layout='responsive'
+                alt="movies"
                 height={1080}
                 width={1920}
                 src={`${BASE_URL}${result.backdrop_path || result.poster_path}` || `{${BASE_URL}${result.poster_path}`}
