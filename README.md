@@ -1,3 +1,15 @@
+
+# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+
+[<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js)
+
+> Curated list of resources: books, videos, articles about using Next.js.
+
+[Next.js](https://github.com/vercel/next.js): The React Framework.
+
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
