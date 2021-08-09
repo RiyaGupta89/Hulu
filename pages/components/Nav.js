@@ -12,7 +12,7 @@ function Nav() {
                 return(
                         <h2 key={key} className="last:pr-24 cursor-pointer transition duration-100 transform hover:scale-125 hover:text-white active:text-red-400" onClick={(e) => {
                             e.preventDefault()
-            router.push(`/genre=${key}`);
+            router.push(`/?genre=${key}`);
     }}>{title}</h2>
                 )
             })}
