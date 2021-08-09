@@ -25,7 +25,7 @@ export default function Home({results}) {
   )
 }
 
-export async function getServerSideProps(context) {
+export const getServerSideProps = async (context) => {
 
   const genre = context.query.genre;
 
