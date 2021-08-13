@@ -10,7 +10,8 @@
 
 ## Preview
 
-![Webpage](/public/webpage.png)
+![hulu](https://user-images.githubusercontent.com/72425181/129317888-65d9de17-dc6e-4425-a0ae-34ce56a125e8.jpg)
+
 
 
 ### Installation
@@ -33,6 +34,4 @@ The above command will start the application on [http://localhost:3000/](http://
 
 This app is having some issue with pre-rendering page therefore that is becoming a hindrance for deploying this webapp. If anybody's interested in helping me and solving this error by contributing to this repository please do. Thanks in advance :)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Thankyou for reading! If you like it, give my repo a star :)
