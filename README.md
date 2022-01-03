@@ -18,7 +18,7 @@
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/MA-Ahmad/hulu-clone-tailwind
+    git clone https://github.com/riyagupta89/hulu
     ```
 2. Install NPM packages
     ```sh
